@@ -12,7 +12,9 @@ function Home2() {
           </Col>
           <Col md={8} className="myAvtar">
             Hi, I'm Yichu Fang.
-            I am currently a Year 4 student at <a href="https://www.nottingham.edu.cn/en/index.aspx" target="_blank" rel="noreferrer"><i>University of Nottingham Ningbo China</i> (UNNC)</a>.
+            I am currently a Year 4 student at <a href="https://www.nottingham.edu.cn/en/index.aspx" target="_blank" rel="noreferrer"><i>University of Nottingham Ningbo China</i> (UNNC)</a>.<br />
+            <br />I am interested in the interdisciplinary area of computer science and social science.<br />
+            <br />
             
             <p style={{fontSize: "18px" }}><strong>Languages</strong></p>
             <ul>
